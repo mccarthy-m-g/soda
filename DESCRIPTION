@@ -18,3 +18,5 @@ Imports:
     httr,
     jsonlite,
     rlang
+URL: https://github.com/mccarthy-m-g/soda
+BugReports: https://github.com/mccarthy-m-g/soda/issues
